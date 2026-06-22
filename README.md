@@ -2,7 +2,8 @@
 
 REST API для управління контактами з аутентифікацією, кешуванням і системою ролей.
 
-Стек: FastAPI · SQLAlchemy 2.0 (async) · PostgreSQL · Redis · FastAPI-Mail · slowapi · Cloudinary · pytest · Sphinx · Docker Compose
+Стек: **FastAPI · SQLAlchemy 2.0 (async) · PostgreSQL · Redis · FastAPI-Mail · slowapi · Cloudinary · pytest · Sphinx ·
+Docker Compose**.
 
 ## Запуск
 
