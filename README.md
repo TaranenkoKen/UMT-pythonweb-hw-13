@@ -21,7 +21,7 @@ cp .env.example .env
 docker compose up --build
 ```
 
-Запускає PostgreSQL, Redis і FastAPI. Swagger — `http://127.0.0.1:8000/docs`.
+Запускає PostgreSQL, Redis і FastAPI. Swagger — <http://127.0.0.1:8000/docs>.
 
 ### 3. Локальний запуск
 
